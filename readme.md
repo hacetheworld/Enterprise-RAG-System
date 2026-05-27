@@ -1,8 +1,47 @@
+
+---
+
+## 💡 Why This Project Exists
+
+This project started from a simple thought experiment:
+
+> “If I were responsible for designing an enterprise-scale AI knowledge system from scratch — how would I actually build it?”
+
+Imagine a company saying:
+
+> “We need a centralized knowledge platform where employees can retrieve accurate information instantly across millions of internal documents.”
+
+This repository is my attempt to approach that problem like a real engineering team would.
+
+Not just building the application itself — but thinking through:
+- architecture decisions
+- tradeoffs
+- scalability
+- retrieval quality
+- security
+- observability
+- deployment strategy
+- repository structure
+- CI/CD
+- production reliability
+
+The goal is not to build another chatbot demo.
+
+The goal is to explore how a production-grade enterprise RAG system could actually be designed and delivered.
+
+
+
+
+
 # Enterprise Knowledge Assistant
 
 > Production-grade RAG platform built for scalable, secure, and grounded AI retrieval over enterprise documents.
 
 ---
+
+
+
+
 
 ## 🚀 What is this?
 
